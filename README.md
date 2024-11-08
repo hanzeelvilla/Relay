@@ -7,6 +7,14 @@ This is a simple Arduino library for controlling relays, allowing you to manage 
 * Supports Normally Open (**NO**) and Normally Closed (**NC**) relay states.
 * Provides methods to initialize the relay pin, set the relay state, and print relay info.
 
+## Installation
+1. Download the repository as a ZIP file or clone it to your Arduino libraries folder
+```
+git clone https://github.com/hanzeelvilla/Relay.git
+```
+2. Place the **Relay folder** into your **Arduino libraries directory** (typically Documents/Arduino/libraries on most systems).
+3. Restart the Arduino IDE if it was open during installation.
+
 ## Getting Started
 
 ### Include the Library
