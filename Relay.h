@@ -21,5 +21,7 @@ class Relay {
 
     void init();
     void info();
+    void on();
+    void off();
 };
 #endif
